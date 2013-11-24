@@ -17,7 +17,7 @@ Finally, if you've never used Chef before - we highly recommend you buy &amp; wa
 
 ### All of the commands
 
-    git clone https://github.com/pivotal-sprout/sprout-wrap.git &&
+    git clone https://github.com/garetht/sprout-wrap.git &&
     cd sprout-wrap &&
     git checkout mavericks &&
     sudo gem install bundler &&
