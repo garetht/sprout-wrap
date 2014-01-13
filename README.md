@@ -18,6 +18,7 @@ Finally, if you've never used Chef before - we highly recommend you buy &amp; wa
 ### All of the commands
 Permissions issues arise if some of these commands are run without `sudo`.
 
+** Firstly, install XCode from the Mac App Store and start it to agree to its license agreement.**
     sudo git clone https://github.com/garetht/sprout-wrap.git &&
     cd sprout-wrap &&
     sudo git checkout mavericks &&
